@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7qjznKudp4JQmUyynGthMoHDDBq5boyx+8w27e94K/OSxHhAP34v1+n5mndJLNqX8Q7tqanBu99NmXUzR/1R7Q==",
+  "success": true,
+  "projectFilePath": "/home/dimqa/myProjects/learning/FinalProjectOfTheFirstBlock/FinalProjectOfTheFirstBlock.csproj",
+  "expectedPackageFiles": [
+    "/home/dimqa/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
